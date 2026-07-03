@@ -1,0 +1,32 @@
+# Byte-compiled files and Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and environment variables
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Test, coverage, and type-checker caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
